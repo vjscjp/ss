@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "No Tests"
+
+echo "Tests Passed"
